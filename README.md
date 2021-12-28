@@ -22,6 +22,7 @@
 - THEN I am again presented with current and future conditions for that city
 
 ## Screenshot
+![screenshot](https://github.com/AMDWorkspace/weather-dashboard-challenge/blob/main/assets/images/Screen%20Shot%202021-12-28%20at%205.19.06%20PM.png)
 
 ## Link to Deployed Application
 
