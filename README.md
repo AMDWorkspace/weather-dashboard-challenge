@@ -1,7 +1,7 @@
 # weather-dashboard-challenge
 
 ## Description 
-- A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS using the OpenWeather One Call API to retrieve weather data for cities.
+- A weather dashboard that will run in the browser and feature dynamically updated HTML, CSS, Javascript, BootStrap, Moment.js, and the OpenWeather API to retrieve weather data for cities.
 
 ## User Story
 - AS A traveler
