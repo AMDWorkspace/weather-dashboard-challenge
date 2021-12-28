@@ -25,4 +25,4 @@
 ![screenshot](https://github.com/AMDWorkspace/weather-dashboard-challenge/blob/main/assets/images/Screen%20Shot%202021-12-28%20at%205.19.06%20PM.png)
 
 ## Link to Deployed Application
-
+- Page published at: https://amdworkspace.github.io/weather-dashboard-challenge/
